@@ -58,6 +58,8 @@ Then open `index.html` in your browser.
 
 No installation required.
 
+---
+
 ## Project structure
 
 ```text
@@ -68,13 +70,19 @@ Stopwatch_Website/
 └── script.js    # Stopwatch logic
 ```
 
+---
+
 ## Author
 
 GitHub: [@Dragoman23](https://github.com/Dragoman23)
 
+----
+
 ## License
 
 This project is open source and available under the [MIT License](LICENSE).
+
+----
 
 
 
