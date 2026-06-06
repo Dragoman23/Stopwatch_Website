@@ -8,12 +8,12 @@ Website Link: [Stopwatch Web App](https://stopwatch-website-sage.vercel.app/)
 
 ## Features
 
-`1.` Start, Pause, and Reset stopwatch
-`2.` Millisecond-level timing accuracy
-`3.` Clean, centered UI with dark theme
-`4.` Responsive layout for both mobile and desktop
-`5.` Real-time updates using `setInterval()`
-`6.` Start button becomes a resume button after stop button is pressed
+1. Start, Pause, and Reset stopwatch  
+2. Millisecond-level timing accuracy  
+3. Clean, centered UI with dark theme  
+4. Responsive layout for both mobile and desktop  
+5. Real-time updates using `setInterval()`  
+6. Start button becomes a resume button after stop is pressed  
 
 ## Languages Used in this Project
 
