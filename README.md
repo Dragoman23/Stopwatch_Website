@@ -1,7 +1,9 @@
 # Stopwatch Web App
 A fast, minimalist stopwatch built with vanilla HTML, CSS, and JavaScript for accurate timing down to the milliseconds.
 
+## Demo URL
 Open the website with the following link.
+
 Website Link: stopwatch-website-sage.vercel.app 
 
 ## Features
