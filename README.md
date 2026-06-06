@@ -1,33 +1,44 @@
 # Stopwatch Web App
+
 A fast, minimalist stopwatch built with vanilla HTML, CSS, and JavaScript for accurate timing down to the milliseconds.
+
+---
 
 ## Demo URL
 
 Website Link: [Stopwatch Web App](https://stopwatch-website-sage.vercel.app/)
 
+---
+
 ## Features
+
 1) Start, Pause, and Reset stopwatch
 2) Millisecond-level timing accuracy
 3) Clean, centered UI with dark theme
 4) Responsive layout for both mobile and desktop
-5) Real-time updates using a  setInterval
+5) Real-time updates using `setInterval()`
 6) Start button becomes a resume button after stop button is pressed
 
+---
+
 ## Built With
+
 -HTML5 - structure
-
 -CSS3 - styling and layout
-
 -JavaScript - stopwatch logic and timing functionality
 
+---
+
 ## How It Works
-The stopwatch uses JavaScript `setInterval()` function to repeatedly update the display at fixed interval of about 10 milliseconds. 
+The stopwatch uses JavaScript `setInterval()` function to repeatedly update the display at fixed intervals of approximately 10 milliseconds. 
 
-It track elapsed time by incrementing milliseconds, seconds, minutes, and hours over time. 
+It tracks elapsed time by incrementing milliseconds, seconds, minutes, and hours over time. 
 
-Each tick(interval) updates the live version of the webpage, which keeps the display in sync with the interval counter.
+Each tick (interval) updates the live version of the webpage, which keeps the display in sync with the interval counter.
 
 The web app simulates a stopwatch by incrementing values at fixed intervals.
+
+---
 
 ## Run locally
 
