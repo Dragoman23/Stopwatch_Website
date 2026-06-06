@@ -21,10 +21,12 @@ Website Link: [Stopwatch Web App](https://stopwatch-website-sage.vercel.app/)
 
 ---
 
-## Built With
+## Languages Used in this Project
 
 -HTML5 - structure
+
 -CSS3 - styling and layout
+
 -JavaScript - stopwatch logic and timing functionality
 
 ---
