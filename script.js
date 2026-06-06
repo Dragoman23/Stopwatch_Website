@@ -19,7 +19,7 @@ function milliseconds() {
         millisec.innerHTML = milliNum
     }
     
-    if (milliNum >= 100) {
+    if (milliNum >= 99) {
         milliNum = 0
         seconds()
     }
