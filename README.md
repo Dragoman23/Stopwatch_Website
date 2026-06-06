@@ -4,7 +4,7 @@ A fast, minimalist stopwatch built with vanilla HTML, CSS, and JavaScript for ac
 
 ## Screenshot of Stopwatch
 
-![Stopwatch Screenshot](assets/screenshot.png)
+<img width="1920" height="958" alt="Screenshot 2026-06-06 at 01-30-55 Stopwatch Website" src="https://github.com/user-attachments/assets/2a724903-3fae-4495-a749-bfd7a4e3487f" />
 
 ## Demo URL
 
