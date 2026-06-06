@@ -15,7 +15,9 @@ Website Link: [Stopwatch Web App](https://stopwatch-website-sage.vercel.app/)
 
 ## Built With
 HTML5 - structure
+
 CSS3 - styling and layout
+
 JavaScript - stopwatch logic and timing functionality
 
 ## How It Works
