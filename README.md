@@ -13,6 +13,11 @@ Website Link: [Stopwatch Web App](https://stopwatch-website-sage.vercel.app/)
 5) Real-time updates using a  setInterval
 6) Start button becomes a resume button after stop button is pressed
 
+## Built With
+HTML5 - structure
+CSS3 - styling and layout
+JavaScript - stopwatch logic and timing functionality
+
 ## How It Works
 The stopwatch uses JavaScript `setInterval()` function to repeatedly update the display at fixed interval of about 10 milliseconds. It track elapsed time by incrementing milliseconds, seconds, minutes, and hours over time. 
 Each tick(interval) updates the live version of the webpage, which keeps the display in sync with the interval counter.
@@ -35,3 +40,15 @@ cd Stopwatch_Website
 Then open `index.html` in your browser.
 
 No installation required.
+
+## Project structure
+
+```text
+Stopwatch_Website/
+│
+├── index.html   # Structure
+├── style.css    # Styling
+└── script.js    # Stopwatch logic
+```
+
+
