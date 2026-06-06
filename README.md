@@ -2,6 +2,10 @@
 
 A fast, minimalist stopwatch built with vanilla HTML, CSS, and JavaScript for accurate timing down to the millisecond.
 
+## Screenshot of Stopwatch
+
+![Stopwatch Screenshot](assets/screenshot.png)
+
 ## Demo URL
 
 Website Link: [Stopwatch Web App](https://stopwatch-website-sage.vercel.app/)
