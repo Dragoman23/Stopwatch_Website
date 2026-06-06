@@ -17,3 +17,19 @@ How It Works:
 The stopwatch uses JavaScript setInterval() function to repeatedly update the display at fixed interval of about 10 milliseconds. It track elapsed time by incrementing milliseconds, seconds, minutes, and hours over time. 
 Each tick(interval) updates the live version of the webpage, which keeps the display in sync with the interval counter.
 The web app simulates a stopwatch by incrementing values at fixed intervals.
+
+Run locally
+
+Clone the repo:
+
+git clone https://github.com/Dragoman23/Stopwatch_Website.git
+
+Open the folder:
+
+cd Stopwatch_Website
+
+Run it:
+
+Just open index.html in your browser.
+
+No installs. No build tools. No setup headaches.
