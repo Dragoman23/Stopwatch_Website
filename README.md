@@ -66,6 +66,11 @@ Stopwatch_Website/
 ## Author
 
 GitHub: [@Dragoman23](https://github.com/Dragoman23)
+I used the HackClub tutorial by [@faisalsayed10](https://github.com/faisalsayed10) to create intial website, upon which I experimented and expanded upon.
+
+## AI Usage
+
+Some AI was used to help with minimal amounts of debugging and helping me understand how to write proper CSS style file
 
 ## License
 
