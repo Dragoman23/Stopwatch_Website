@@ -18,18 +18,20 @@ The stopwatch uses JavaScript setInterval() function to repeatedly update the di
 Each tick(interval) updates the live version of the webpage, which keeps the display in sync with the interval counter.
 The web app simulates a stopwatch by incrementing values at fixed intervals.
 
-Run locally
+## Run locally
 
-Clone the repo:
+Clone the repository:
 
+```bash
 git clone https://github.com/Dragoman23/Stopwatch_Website.git
+```
 
 Open the folder:
 
+```bash
 cd Stopwatch_Website
+```
 
-Run it:
+Then open `index.html` in your browser.
 
-Just open index.html in your browser.
-
-No installs. No build tools. No setup headaches.
+No installation required.
