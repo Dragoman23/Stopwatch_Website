@@ -14,15 +14,19 @@ Website Link: [Stopwatch Web App](https://stopwatch-website-sage.vercel.app/)
 6) Start button becomes a resume button after stop button is pressed
 
 ## Built With
-HTML5 - structure
+-HTML5 - structure
 
-CSS3 - styling and layout
+-CSS3 - styling and layout
 
-JavaScript - stopwatch logic and timing functionality
+-JavaScript - stopwatch logic and timing functionality
 
 ## How It Works
-The stopwatch uses JavaScript `setInterval()` function to repeatedly update the display at fixed interval of about 10 milliseconds. It track elapsed time by incrementing milliseconds, seconds, minutes, and hours over time. 
+The stopwatch uses JavaScript `setInterval()` function to repeatedly update the display at fixed interval of about 10 milliseconds. 
+
+It track elapsed time by incrementing milliseconds, seconds, minutes, and hours over time. 
+
 Each tick(interval) updates the live version of the webpage, which keeps the display in sync with the interval counter.
+
 The web app simulates a stopwatch by incrementing values at fixed intervals.
 
 ## Run locally
