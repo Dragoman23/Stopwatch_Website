@@ -74,6 +74,8 @@ I used the HackClub tutorial by [@faisalsayed10](https://github.com/faisalsayed1
 
 Some AI was used to help with minimal amounts of debugging and helping me understand how to write proper CSS style file
 
+Used Vercel Bot to help integrate Vercel Analytics
+
 ## License
 
 This project is open source and available under the [MIT License](LICENSE).
