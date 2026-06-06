@@ -12,7 +12,7 @@ Website Link: [Stopwatch Web App](https://stopwatch-website-sage.vercel.app/)
 
 ## Features
 
-1) Start, Pause, and Reset stopwatch
+`1` Start, Pause, and Reset stopwatch
 2) Millisecond-level timing accuracy
 3) Clean, centered UI with dark theme
 4) Responsive layout for both mobile and desktop
