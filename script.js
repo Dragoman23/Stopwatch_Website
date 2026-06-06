@@ -1,12 +1,14 @@
 const millisec = document.querySelector('.milliseconds')
 const sec = document.querySelector('.seconds')
 const min = document.querySelector('.minutes')
+const hour = document.querySelector('.hours')
 const startStopBtn = document.querySelector('.start');
 const pauseBtn = document.querySelector('.stop');
 
 let milliNum = 0
 let secNum = 0
 let minNum = 0
+let hourNum = 0
 let INTERVAL
 
 function milliseconds() {
@@ -19,7 +21,6 @@ function milliseconds() {
     
     if (milliNum >= 100) {
         milliNum = 0
-        millisec.innerHTML = '00'
         seconds()
     }
 }
@@ -34,7 +35,6 @@ function seconds() {
     
     if (secNum >= 60) {
         secNum = 0
-        sec.innerHTML = '00'
         minutes()
     }
 }
@@ -45,6 +45,19 @@ function minutes() {
         min.innerHTML = '0' + minNum
     } else {
         min.innerHTML = minNum
+    }
+    if (minNum >= 60) {
+        minNum = 0
+        hours()
+    }
+}
+
+function hours() {
+    hourNum++
+    if (hourNum < 10) {
+        hour.innerHTML = '0' + hourNum
+    } else {
+        hour.innerHTML = hourNum
     }    
 }
 
@@ -72,9 +85,11 @@ function reset() {
     milliNum = 0
     secNum = 0
     minNum = 0
+    hourNum = 0
     millisec.innerHTML = '00'
     sec.innerHTML = '00'
     min.innerHTML = '00'
+    hour.innerHTML = '00'
 
     startStopBtn.innerText = 'START';
 }
