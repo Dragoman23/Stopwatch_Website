@@ -4,7 +4,9 @@ A fast, minimalist stopwatch built with vanilla HTML, CSS, and JavaScript for ac
 
 ## Live Interface Preview
 
-![Demo Screenshot 1](images/
+![Demo Screenshot 1](images/Stopwatch_Website_Demo_Image1.png)
+
+![Demo Screenshot 2](images/Stopwatch_Website_Demo_Image2.png)
 
 ## Demo URL
 
