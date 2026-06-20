@@ -75,7 +75,7 @@ function start() {
 function stopTimer() {
     clearInterval(INTERVAL);
 
-    if (startStopBtn.innerText.trim().toUpperCase() === 'START') {
+    if (startStopBtn.innerText.trim().toUpperCase() === 'START' && milliNum > 0) {
         startStopBtn.innerText = 'RESUME'
     }
 }
